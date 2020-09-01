@@ -1,0 +1,2 @@
+{'Product': 'Test', 'Price': '100'}
+{'Product': 'test2', 'Price': 200.0}
